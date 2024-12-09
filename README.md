@@ -162,26 +162,6 @@
   &emsp;
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
-</p>
-
-<br> 
-
----
-
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
